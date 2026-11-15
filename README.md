@@ -1,5 +1,5 @@
 # TG-DHGJDB
-> 转载请注明原文出处:[Telegram 群组、频道、机器人 - 汇总分享](https://congcong0806.github.io/2018/04/24/Telegram)
+> 转载请注明原文出处:[Telegram 群组、频道、机器人 - 汇总分享]([https://congcong0806.github.io/2018/04/24/Telegram](https://github.com/Zhhans1-wq/TG-DHGJDB/blob/08428e78c8a17d40394acd14f41e2e7843d25dd4/README.md))
 
 ##### 推荐[](#推荐)
 
